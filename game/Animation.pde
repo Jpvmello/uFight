@@ -1,0 +1,3 @@
+public enum Animation {
+  NONE, STEP_FORWARD, STEP_BACK, RIGHT_PUNCH, RIGHT_KICK;
+}
