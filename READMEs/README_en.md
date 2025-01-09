@@ -2,6 +2,8 @@
 
 **uFight** is a Virtual Reality game which uses your PC camera to turn you into the strongest fighter. It uses deep *human pose estimation* with the [Simple Pose](https://github.com/robertklee/COCO-Human-Pose) model to detect your position and pose on the camera frame and create a virtual opponent to fight.
 
+![Animation](../video/animation.gif)]
+
 # Installation
 
 ## Back-end
